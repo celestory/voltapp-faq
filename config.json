@@ -1,9 +1,11 @@
 {
-  "airtableUpdate": {"en": "How to update my app when my Airtable columns change?", "fr": "Comment mettre à jour mon app quand ma base Airtable change ?", "tags": []},
-  "scroll": {"en": "How to handle scroll properly?", "fr": "Comment gérer correctement le défilement ?", "tags": ["scrollbar"]},
-  "screenVSrouter": {"en": "What is the difference between Screens and Router?", "fr": "Quelle est la différence entre Écrans et Router ?", "tags": ["pages"]},
-  "responsive": {"en": "How to make my app responsive?", "fr": "Comment rendre mon application responsive ?", "tags": ["mobile", "desktop", "mediaqueries"]},
-  "monetisation": {"en": "How to add a monetisation system in my app?", "fr": "Comment ajouter un système de monétisation dans mon app ?", "tags": ["stripe", "payment"]},
-  "backend": {"en": "How to connect to a backend or external API?", "fr": "Comment connecter un backend ou une API externe ?", "tags": ["http", "json"]},
-  "i18n": {"en": "How to internationalize my app?", "fr": "Comment internationaliser mon app ?", "tags": ["i18n", "locale", "language"]}
+    "questions": [
+        {"key": "airtableUpdate", "en": "How to update my app when my Airtable columns change?", "fr": "Comment mettre à jour mon app quand ma base Airtable change ?", "tags": []},
+        {"key": "scroll", "en": "How to handle scroll properly?", "fr": "Comment gérer correctement le défilement ?", "tags": ["scrollbar"]},
+        {"key": "screenVSrouter", "en": "What is the difference between Screens and Router?", "fr": "Quelle est la différence entre Écrans et Router ?", "tags": ["pages"]},
+        {"key": "responsive", "en": "How to make my app responsive?", "fr": "Comment rendre mon application responsive ?", "tags": ["mobile", "desktop", "mediaqueries"]},
+        {"key": "monetisation", "en": "How to add a monetisation system in my app?", "fr": "Comment ajouter un système de monétisation dans mon app ?", "tags": ["stripe", "payment"]},
+        {"key": "backend", "en": "How to connect to a backend or external API?", "fr": "Comment connecter un backend ou une API externe ?", "tags": ["http", "json"]},
+        {"key": "i18n", "en": "How to internationalize my app?", "fr": "Comment internationaliser mon app ?", "tags": ["i18n", "locale", "language"]}
+    ]
 }
