@@ -5,5 +5,5 @@
   "responsive": {"en": "How to make my app responsive?", "fr": "Comment rendre mon application responsive ?", "tags": ["mobile", "desktop", "mediaqueries"]},
   "monetisation": {"en": "How to add a monetisation system in my app?", "fr": "Comment ajouter un système de monétisation dans mon app ?", "tags": ["stripe", "payment"]},
   "backend": {"en": "How to connect to a backend or external API?", "fr": "Comment connecter un backend ou une API externe ?", "tags": ["http", "json"]},
-  "i18n": {"en": "How to internationalize my app?", "fr": "Comment internationaliser mon app ?", "tags": ["i18n", "locale", "language"]},
+  "i18n": {"en": "How to internationalize my app?", "fr": "Comment internationaliser mon app ?", "tags": ["i18n", "locale", "language"]}
 }
