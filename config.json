@@ -1,11 +1,11 @@
 {
     "questions": [
-        {"key": "airtableUpdate", "en": "How to update my app when my Airtable columns change?", "fr": "Comment mettre à jour mon app quand ma base Airtable change ?", "tags": []},
-        {"key": "scroll", "en": "How to handle scroll properly?", "fr": "Comment gérer correctement le défilement ?", "tags": ["scrollbar"]},
-        {"key": "screenVSrouter", "en": "What is the difference between Screens and Router?", "fr": "Quelle est la différence entre Écrans et Router ?", "tags": ["pages"]},
-        {"key": "responsive", "en": "How to make my app responsive?", "fr": "Comment rendre mon application responsive ?", "tags": ["mobile", "desktop", "mediaqueries"]},
-        {"key": "monetisation", "en": "How to add a monetisation system in my app?", "fr": "Comment ajouter un système de monétisation dans mon app ?", "tags": ["stripe", "payment"]},
-        {"key": "backend", "en": "How to connect to a backend or external API?", "fr": "Comment connecter un backend ou une API externe ?", "tags": ["http", "json"]},
-        {"key": "i18n", "en": "How to internationalize my app?", "fr": "Comment internationaliser mon app ?", "tags": ["i18n", "locale", "language"]}
+        {"key": "airtableUpdate", "en-US": "How to update my app when my Airtable columns change?", "fr-FR": "Comment mettre à jour mon app quand ma base Airtable change ?", "tags": []},
+        {"key": "scroll", "en-US": "How to handle scroll properly?", "fr-FR": "Comment gérer correctement le défilement ?", "tags": ["scrollbar"]},
+        {"key": "screenVSrouter", "en-US": "What is the difference between Screens and Router?", "fr-FR": "Quelle est la différence entre Écrans et Router ?", "tags": ["pages"]},
+        {"key": "responsive", "en-US": "How to make my app responsive?", "fr-FR": "Comment rendre mon application responsive ?", "tags": ["mobile", "desktop", "mediaqueries"]},
+        {"key": "monetisation", "en-US": "How to add a monetisation system in my app?", "fr-FR": "Comment ajouter un système de monétisation dans mon app ?", "tags": ["stripe", "payment"]},
+        {"key": "backend", "en-US": "How to connect to a backend or external API?", "fr-FR": "Comment connecter un backend ou une API externe ?", "tags": ["http", "json"]},
+        {"key": "i18n", "en-US": "How to internationalize my app?", "fr-FR": "Comment internationaliser mon app ?", "tags": ["i18n", "locale", "language"]}
     ]
 }
